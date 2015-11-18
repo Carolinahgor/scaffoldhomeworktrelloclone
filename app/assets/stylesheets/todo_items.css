@@ -1,0 +1,51 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+#header {
+    background: #026aa7;
+    height: 60px;
+    padding: 1px;
+    margin: 0 auto;
+}
+
+.logo{
+  height: 50px;
+  width: 110px;
+}
+
+.gold {
+  width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color:#EFECD7;
+}
+
+.crown {
+  height: 40px;
+  width: 50px;
+  padding-right: 2px;
+}
+
+.earned {
+  display: inline-block;
+  padding: 10px;
+}
+
+.newboard {
+  background: #026aa7;
+  height: 50px;
+  width: 200px;
+  padding: 20px;
+  color: white;
+  border-radius: 3px;
+}
+
+.newtask {
+  background: #e2e4e6;
+  height: 50px;
+  width: 200px;
+  padding: 20px;
+  color: grey;
+  border-radius: 3px;
+}
